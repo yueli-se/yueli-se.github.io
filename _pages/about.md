@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a final-year Ph.D. student under the supervision of Prof. He Zhang at Nanjing University. I was also advised by Prof. [He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) at the Institute of Software, Nanjing University during my master's study. I was an exchange PhD student at Singapore Management University, supervised by Prof. [David LO](http://www.mysmu.edu/faculty/davidlo/).
 
-My research interests include Software Process, **AI+SE**, particularly Large Language Models, Bug Localization, and Code Completion.
+My research interests include Software Process, **AI+SE**, particularly Large Language Models, Bug Localization, and Code Completion. My work focuses on developing human-centered computational tools to address complex practical problems and facilitate the process of intelligent software development.
 
 Publication
 ======
