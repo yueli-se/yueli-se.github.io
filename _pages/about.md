@@ -61,5 +61,5 @@ Academic Service
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=260&t=tt&d=nRGtxz_Nftr9cVasPVvKWzmiw6h9egu5zHgUZxn8Phs'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=tt&d=nRGtxz_Nftr9cVasPVvKWzmiw6h9egu5zHgUZxn8Phs'></script>
 
