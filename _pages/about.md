@@ -50,7 +50,7 @@ Project Involved
 - Software process simulation modeling technology integrating intelligent learning **National Natural Science Foundation of China (NSFC) Project** 
 - Enhancing Pre-trained Models for Bug Localization 
 - Integrating Semantic Features and Expert Features for Effort Estimation
-- Synergy between Process Simulation and Deep Learning: An Exploratory Case Study on Schedule Estimation
+#- Synergy between Process Simulation and Deep Learning: An Exploratory Case Study on Schedule Estimation
 - Verification and Validation for Software Process Simulation and Modeling
 - Constructing a Hybrid Process Simulation Model for Schedule Estimation
 - Contribution Evaluation of Software Engineers
