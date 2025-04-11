@@ -43,20 +43,24 @@ Publication
 
 Award
 ======
-- 2021 National Scholarship for Graduate Students
+- National Scholarship (2024)
 
 Project Involved
 ------
-- Intelligence-based Software Process Simulation and Modeling (NSFC project, 2021 - 2025)
-This project leverages process simulation and machine learning, etc., to reinforce software process analysis, management, and improvement.
+- Software process simulation modeling technology integrating intelligent learning **National Natural Science Foundation of China (NSFC) Project** 
+- Enhancing Pre-trained Models for Bug Localization 
+- Integrating Semantic Features and Expert Features for Effort Estimation
+- Synergy between Process Simulation and Deep Learning: An Exploratory Case Study on Schedule Estimation
+- Verification and Validation for Software Process Simulation and Modeling
+- Constructing a Hybrid Process Simulation Model for Schedule Estimation
+- Contribution Evaluation of Software Engineers
 
 Academic Service
 ------
--
+-ICSSP 2023 PC Member
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nRGtxz_Nftr9cVasPVvKWzmiw6h9egu5zHgUZxn8Phs&cl=ffffff&w=a"></script>
