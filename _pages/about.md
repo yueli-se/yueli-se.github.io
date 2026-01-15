@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yue Li is an Associate Research Fellow (Special Appointment) at the Software Institute, Nanjing University, China. She obtained her PhD degree at Nanjing University, supervised by Prof. [He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) at the Institute of Software, Nanjing University. She was a visiting student at Singapore Management University, supervised by Prof. [David LO](http://www.mysmu.edu/faculty/davidlo/).
+Yue Li is an Associate Research Fellow (Special Appointment) at the Software Institute, Nanjing University, China. She obtained her PhD degree at Nanjing University, supervised by Prof. [He Zhang](https://softeng.nju.edu.cn/faculty/HeZhang/index.html) at the Institute of Software, Nanjing University. She was a visiting student in Singapore Management University, supervised by Prof. [David LO](http://www.mysmu.edu/faculty/davidlo/).
 
 Her research interests include Software Process, **AI+SE**, particularly Large Language Models, Bug Localization, and Code Completion. Her work focuses on developing human-centered computational tools to address complex practical problems and facilitate the process of intelligent software development.
 
